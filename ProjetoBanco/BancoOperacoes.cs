@@ -34,13 +34,10 @@ namespace Projeto
         public void Retirar()
         {
             Console.WriteLine($"Digite o valor a ser sacado");
-            if (float.TryParse(Console.ReadLine(), out float valor) && valor > 0 && valor < saldo)
+            if (float.TryParse(Console.ReadLine(), out float valor) && valor > 0 && valor <= saldo)
             {
-                if (valor <= saldo)
-                {
                     saldo -= valor;
-                    Console.WriteLine($"Valor sacado!");
-                }
+                    Console.WriteLine($"Valor sacado!");                
             }
 
             else

@@ -12,3 +12,4 @@ C:\Users\462573368\source\repos\ProjetoBanco\ProjetoBanco\obj\Debug\net9.0\refin
 C:\Users\462573368\source\repos\ProjetoBanco\ProjetoBanco\obj\Debug\net9.0\ProjetoBanco.pdb
 C:\Users\462573368\source\repos\ProjetoBanco\ProjetoBanco\obj\Debug\net9.0\ProjetoBanco.genruntimeconfig.cache
 C:\Users\462573368\source\repos\ProjetoBanco\ProjetoBanco\obj\Debug\net9.0\ref\ProjetoBanco.dll
+C:\Users\462573368\source\repos\ProjetoBanco\ProjetoBanco\obj\Debug\net9.0\ProjetoBanco.sourcelink.json
